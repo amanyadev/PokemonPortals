@@ -5,7 +5,6 @@ Command: npx gltfjsx@6.2.16 public/models/Bulbasaur/output/anim.gltf -o src/comp
 
 import React, { useEffect, useRef } from 'react'
 import { useGLTF, useAnimations } from '@react-three/drei'
-import { act } from '@react-three/fiber'
 
 export function Bulbasaur(props) {
   const group = useRef()
