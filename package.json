@@ -1,9 +1,12 @@
 {
-  "name": "r3f-vite-starter",
+  "homepage":"https://amanyadev.github.io/PokemonPortals",
+  "name": "PokemonPortals",
   "private": true,
   "version": "1.0.0",
   "type": "module",
   "scripts": {
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
