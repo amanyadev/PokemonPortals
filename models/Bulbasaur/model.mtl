@@ -1,0 +1,35 @@
+newmtl BodyA
+ illum 2
+ Ka 1 1 1
+ Kd 0.8 0.8 0.8
+ Ks 0.1843137 0.6235294 0.2431373
+ Ns 20
+ d 1
+ Tr 0
+ map_Kd Fushigidane_bodyCl_ctr.png
+newmtl BodyB
+ illum 2
+ Ka 1 1 1
+ Kd 0.8 0.8 0.8
+ Ks 0.2901961 0.5686275 0.2431373
+ Ns 20
+ d 1
+ Tr 0
+ map_Kd Fushigidane_bodyCl_ctr.png
+newmtl Eye
+ illum 2
+ Ka 1 1 1
+ Kd 0.8 0.8 0.8
+ Ks 0.1843137 0.6235294 0.2431373
+ Ns 20
+ d 1
+ Tr 0
+ map_Kd Fushigidane_eyeCl_ctr.png
+newmtl shadow_w
+ illum 2
+ Ka 0 0 0
+ Kd 0 0 0
+ Ks 0 0 0
+ Ns 20
+ d 1
+ Tr 0
